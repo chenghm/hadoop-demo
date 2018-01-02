@@ -1,0 +1,9 @@
+/home/chenghongming/eclipse-workspace/hadoop-demo/src/main/java/com/cmeeto/hadoop/SemiJoinJob.java
+/home/chenghongming/eclipse-workspace/hadoop-demo/src/main/java/com/cmeeto/hadoop/JoinValueWritable.java
+/home/chenghongming/eclipse-workspace/hadoop-demo/src/main/java/com/cmeeto/hadoop/MaxValueJob.java
+/home/chenghongming/eclipse-workspace/hadoop-demo/src/main/java/com/cmeeto/hadoop/SimpleEtlJob.java
+/home/chenghongming/eclipse-workspace/hadoop-demo/src/main/java/com/cmeeto/hadoop/HdfsDemo.java
+/home/chenghongming/eclipse-workspace/hadoop-demo/src/main/java/com/cmeeto/hadoop/DistinctJob.java
+/home/chenghongming/eclipse-workspace/hadoop-demo/src/main/java/com/cmeeto/hadoop/WordCountJob.java
+/home/chenghongming/eclipse-workspace/hadoop-demo/src/main/java/com/cmeeto/hadoop/StudentJoinJob.java
+/home/chenghongming/eclipse-workspace/hadoop-demo/src/main/java/com/cmeeto/hadoop/SortJob.java
